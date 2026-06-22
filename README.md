@@ -14,9 +14,9 @@ Consolidar conhecimentos e construir soluções para problemas reais, preparando
 - Infraestrutura/cloud: AWS (estudo)
 - Ferramentas: Git e GitHub
 
-# Projetos
+# Projeto principal
 
-## 1 - Agenda Inteligente (Projeto Principal)
+## Agenda Inteligente 
 Link: https://github.com/psviviane/agenda-inteligente
 
 Sistema de agendamento online para prestadores de serviço autônomos e seus clientes.
@@ -38,7 +38,8 @@ O objetivo é digitalizar e automatizar o processo de agendamento, tornando mais
 - Agendar serviços online  
 - Receber confirmação automática de agendamento  
 
-## 2 - Sistema de Gestão Familiar
+# Outros projetos
+## 1 - Sistema de Gestão Familiar
 Link: https://github.com/psviviane/sistema-gestao-familiar
 
 Sistema para organização doméstica, controle de tarefas, calendário familiar e gestão financeira.
@@ -54,7 +55,7 @@ O objetivo é facilitar a gestão da casa, trazendo mais organização, clareza 
 - Controlar compromissos do dia a dia  
 - Registrar e acompanhar despesas e metas financeiras  
 
-## 3 - Gestão para Motoristas de Aplicativo:
+## 2 - Gestão para Motoristas de Aplicativo  
 Link: https://github.com/psviviane/gestao-motorista-app
 
 Sistema para controle de ganhos, despesas e desempenho de motoristas de aplicativo.
@@ -71,7 +72,7 @@ O objetivo é permitir um acompanhamento claro da rotina financeira e operaciona
 - Calcular lucro líquido  
 - Definir metas financeiras  
 
-## 4 - Estudos e Exercícios:
+# Estudos e Exercícios
 Link: https://github.com/psviviane/estudos-fullstack
 
 Repositório com exercícios, práticas e evolução no desenvolvimento Full Stack.
